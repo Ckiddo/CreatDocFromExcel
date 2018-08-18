@@ -19,7 +19,15 @@ JAVA
 ```bash
 java PoiOperation.jar -jar
 ```
-*注意word文件格式必须为doc，表格必须为xls*
+
+*注意：*
+
+
+*word文件格式必须为doc，表格必须为xls*
+
+
 *xls表格内的内容必须为文字，不能为纯数字*
+
+
 生成的doc文件在jar文件相同目录下
 
